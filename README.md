@@ -13,4 +13,6 @@ Mosquito net holders for plastic windows
 3. 6ANTIMOSKITO.g - файл готовый для печати , содержит 6 верхний и 6 нижних держателей
 
 ### Фото
-
+1. [Совместимые держатели (которые сломались) ](/docs/compatible)
+2. [Держатели в процессе печати](/docs/in_process.md)
+2. [Держатели установленные на окно](/docs/installed.md)
